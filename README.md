@@ -6,4 +6,4 @@ I have created a webpage (https://cmjd1993.shinyapps.io/DDP3/) that displays an 
 
 The webpage was made via shiny. My ui.R and server.R files are included in this repos.
 
-Link to presentation pitching my webpage: 
+Link to presentation pitching my webpage: http://rpubs.com/cmjd1993/DDP_Week4
