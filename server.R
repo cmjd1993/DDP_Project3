@@ -32,8 +32,7 @@ myplot <-  function(type, pal){
       axis.title=element_blank(),
       axis.text=element_blank(),
       panel.grid=element_blank(),
-      panel.background = element_rect(fill = "white"),
-      legend.position = "bottom")
+      panel.background = element_rect(fill = "white"))
   
   # use ggplotly to transform ggplot into a plotly plot
   ggplotly(g)
